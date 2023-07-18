@@ -1,0 +1,36 @@
+{
+  "name": "react-native-sqlite-storage-master",
+  "version": "1.0.0",
+  "description": "SQLite3 bindings for React Native (Android & iOS)",
+  "main": "sqlite.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulchaudharydeveloper/react-native-sqlite-storage.git"
+  },
+  "keywords": [
+    "react-native-sqlite-storage",
+    "react-native-sqlite",
+    "react-component",
+    "reactnative",
+    "react-native",
+    "sqlite",
+    "sqlite3",
+    "ios",
+    "android",
+    "promise",
+    "cordova-sqlite-storage"
+  ],
+  "author": "Rahul Chaudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulchaudharydeveloper/react-native-sqlite-storage/issues"
+  },
+  "homepage": "https://github.com/rahulchaudharydeveloper/react-native-sqlite-storage#readme"
+}
